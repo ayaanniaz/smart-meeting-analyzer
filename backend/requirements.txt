@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pgvector
+celery
+redis
+python-multipart
+boto3
+openai-whisper
+python-dotenv
+requests
+groq
+sentence-transformers
