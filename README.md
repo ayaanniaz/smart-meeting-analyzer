@@ -4,12 +4,12 @@ An AI-powered meeting analysis tool that transcribes videos, generates embedding
 
 ## Features
 
-- 🎥 **Video Upload** - Drag & drop video files for processing
-- 🎙️ **Automatic Transcription** - Uses OpenAI Whisper for accurate speech-to-text
-- 🧠 **Semantic Search** - Vector embeddings enable intelligent context retrieval
-- 💬 **AI Chat** - Ask questions about your meetings with citations
-- ⏱️ **Timestamp Navigation** - Click timestamps to jump to specific moments
-- 📚 **Meeting History** - Access previously processed meetings
+-  **Video Upload** - Drag & drop video files for processing
+-  **Automatic Transcription** - Uses OpenAI Whisper for accurate speech-to-text
+-  **Semantic Search** - Vector embeddings enable intelligent context retrieval
+-  **AI Chat** - Ask questions about your meetings with citations
+-  **Timestamp Navigation** - Click timestamps to jump to specific moments
+-  **Meeting History** - Access previously processed meetings
 
 ## Tech Stack
 
