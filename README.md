@@ -35,7 +35,7 @@ An AI-powered meeting analysis tool that transcribes videos, generates embedding
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-meeting-analyzer.git
+git clone https://github.com/ayaanniaz/smart-meeting-analyzer.git
 cd smart-meeting-analyzer
 ```
 
